@@ -1,4 +1,10 @@
 THis is my first git file
 Adding a new second line
 push to master barcnh
+<<<<<<< HEAD
 Adding a new line tot eh file
+=======
+chnages made on git hub
+>>>>>>> 8a0c1e034c5c8533dc1cde2de25163a02e51ff50
+
+second changes made by github
