@@ -4,4 +4,8 @@ push to master barcnh
 
 Adding a new line tot eh file
 chnages made on git hub
+<<<<<<< HEAD
 second changes made by github
+=======
+second chnage by git hub
+>>>>>>> 353930fb67035b0c3400a8e7b66f92e53d329a88
