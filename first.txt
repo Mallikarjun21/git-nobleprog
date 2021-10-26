@@ -1,5 +1,11 @@
 THis is my first git file
 Adding a new second line
 push to master barcnh
+
+Adding a new line tot eh file
 chnages made on git hub
+second changes made by github
 second chnage by git hub
+
+changed first file
+chnges made at trs tbrance
